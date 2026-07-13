@@ -18,7 +18,7 @@ This project analyses customer shopping behaviour to uncover patterns in spendin
     - Payment method preferences
     - Size purchased by age bucket  
 
-![Excel Visualisation](Screenshots\Excel_Visualisation.png)  
+![Excel Visualisation](Screenshots/Excel_Visualisation.png)  
 
 *Presented above is the full dashboard preview that was visualised in Excel.*
 
@@ -94,7 +94,7 @@ This project analyses customer shopping behaviour to uncover patterns in spendin
 
 **Payment Method Popularity**
 
-![Payment Method](Screenshots\excel_payment_deep_dive.png)
+![Payment Method](Screenshots/excel_payment_deep_dive.png)
 
 - **Insight:** The highest payment method used to make purchases was PayPal while customers show a strong preference against bank transfers. This suggests that customers prefer secure payment options.  
 
@@ -102,7 +102,7 @@ This project analyses customer shopping behaviour to uncover patterns in spendin
 
 **Size Preferences by Age Group**  
 
-![Size](Screenshots\excel_size_mostly_purchased.png)
+![Size](Screenshots/excel_size_mostly_purchased.png)
 
 - **Insight:** Medium (M) size was most purchased in all age groups while Extra-Large (XL) was the least purchased. This may be driven by medium sizing being the most common fit across the customer base.
 
