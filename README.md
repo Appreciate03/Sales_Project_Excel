@@ -18,9 +18,9 @@ This project analyses customer shopping behaviour to uncover patterns in spendin
     - Payment method preferences
     - Size purchased by age bucket  
 
-![Excel Visualisation](assets\Excel_Visualisation.png)  
+![Excel Visualisation](Screenshots\Excel_Visualisation.png)  
 
-*Presented above is the full dashboard preview that was visualised in Excel. [Click Here for Interactive Dashboard]()*
+*Presented above is the full dashboard preview that was visualised in Excel.*
 
 ## Tools Used
 
@@ -78,7 +78,7 @@ This project analyses customer shopping behaviour to uncover patterns in spendin
 
 **Gender Spending Performance**
 
-![Gender](assets\Gender_that_spend_the_most.png) 
+![Gender](Screenshots/Gender_that_spend_the_most.png) 
 
 - **Insight gained:** Based on gender comparison on who spends the most, males spend 38% more than females. This may either be the business focuses more on male products than females or female customers they don't prefer this store.
 
@@ -86,7 +86,7 @@ This project analyses customer shopping behaviour to uncover patterns in spendin
     
 **Seasonal Trends**
 
-![Seasonal Trends](assets\Seasonal_Trends.png)
+![Seasonal Trends](Screenshots/Seasonal_Trends.png)
 
 - **Insight:** Spring had the highest purchase volume across age groups, notably higher than Summer. This suggests that customers are more likely to make shopping during Spring time that other seasons.  
 
@@ -94,7 +94,7 @@ This project analyses customer shopping behaviour to uncover patterns in spendin
 
 **Payment Method Popularity**
 
-![Payment Method](assets\excel_payment_deep_dive.png)
+![Payment Method](Screenshots\excel_payment_deep_dive.png)
 
 - **Insight:** The highest payment method used to make purchases was PayPal while customers show a strong preference against bank transfers. This suggests that customers prefer secure payment options.  
 
@@ -102,7 +102,7 @@ This project analyses customer shopping behaviour to uncover patterns in spendin
 
 **Size Preferences by Age Group**  
 
-![Size](assets\excel_size_mostly_purchased.png)
+![Size](Screenshots\excel_size_mostly_purchased.png)
 
 - **Insight:** Medium (M) size was most purchased in all age groups while Extra-Large (XL) was the least purchased. This may be driven by medium sizing being the most common fit across the customer base.
 
